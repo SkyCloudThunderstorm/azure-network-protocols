@@ -38,7 +38,7 @@ Using wireshark to capture network packets. Pinging from one computer to another
 <img src="https://i.imgur.com/BlJhUPY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Using PowerShell to ping other computer, to create traffic. Thiss alows wireshark to capture network traffic between the two computers.
+Using PowerShell to ping other computer, to create traffic. This alows wireshark to capture network traffic between the two computers.
 </p>
 <br />
 
