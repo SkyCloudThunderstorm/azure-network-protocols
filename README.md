@@ -43,9 +43,9 @@ Using PowerShell to ping other computer, to create traffic. This alows wireshark
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5Tk3aVo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating a rule in NSG to deny ping from any source. Adding it to the top will make it the first priority to read. If it is second to read and SSH is first to read. Ping ight go through since it could be a default rule. This would let ping go through. Which we want to block ping and deny access.
 </p>
 <br />
