@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/t8XMFgR.png" alt="osTicket logo"/>
 </p>
 
 <h1>Microsoft Azure - Network Protocol Group (NSG)</h1>
@@ -7,9 +7,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines Windows & Linux)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Resource Group
+- WiresShark
+- Network Security Group
 
 <h2>Operating Systems Used </h2>
 
@@ -17,11 +19,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+![image](https://github.com/user-attachments/assets/d5626510-e8d8-40e2-a7cb-5be00d00727e)
+![image](https://github.com/user-attachments/assets/b11f16c7-e556-4c1b-bb59-79f63ff33592)
+![image](https://github.com/user-attachments/assets/e501c462-b21e-42f3-a81d-354b568b1a68)
+![image](https://github.com/user-attachments/assets/f1310512-8f48-4bab-8e8f-e710ea6dbfec)
 
 <h2>Installation Steps</h2>
 
